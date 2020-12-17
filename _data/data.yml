@@ -7,33 +7,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: 김 수 현
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
+    email: soohyunkim950921@gmail.com
     phone: 012 345 6789
     website: blog.webjeda.com #do not add http://
     linkedin: alandoe
-    github: sharu725
+    github: kimSooHyun950921
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter:
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads:
 
     languages:
-      - idiom: English
+      - idiom: 한국어
         level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
@@ -45,20 +39,11 @@ sidebar:
       - item: Cooking
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
+학력사항:
+    - 학위: 
+      대학교: 학사
+      졸업년월: 2014.03 - 2019.02
+      가장 재미있었던 과목: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -66,10 +51,12 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - 학위: 석사(예정)
+      대학교: 충남대학교
+      졸업년월: 2019.03 - 2021.02
       details: |
+        가장 재미있던과목:
+        
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -77,11 +64,17 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+경험:
+    - 프로젝트이름: 온톨로지를 이용한 카카오톡 음식점 추천  챗봇
+      역할: 프로젝트 리더 
+      기간: 2018.02 ~ 2018.10 
+      주관기관: 프로젝트 기간
       details: |
+        사용언어:
+        사용기술:
+        github url:
+        project 정리 링크: 
+        수상실적: 
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -91,8 +84,6 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
