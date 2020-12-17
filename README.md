@@ -1,2 +1,2 @@
-# KimSooHyunBlog
+# KimSooHyun
 GithubBlog
