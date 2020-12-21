@@ -39,10 +39,10 @@ sidebar:
       - item: Cooking
         link:
 
-Education:
-    - 학위: 
-      대학교: 학사
-      졸업년월: 2014.03 - 2019.02
+graduation:
+    - degree: 
+      university: 학사
+      time: 2014.03 - 2019.02
       가장 재미있었던 과목: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -51,11 +51,11 @@ Education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - 학위: 석사(예정)
-      대학교: 충남대학교
-      졸업년월: 2019.03 - 2021.02
+    - degree: 석사(예정)
+      university: 충남대학교
+      time: 2019.03 - 2021.02
       details: |
-        가장 재미있던과목:
+        가장 재미있던과목:|
         
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
