@@ -39,7 +39,7 @@ sidebar:
       - item: Cooking
         link:
 
-학력사항:
+Education:
     - 학위: 
       대학교: 학사
       졸업년월: 2014.03 - 2019.02
@@ -64,7 +64,7 @@ sidebar:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-경험:
+Experience:
     title: Projects
     intro: >
     projects:
