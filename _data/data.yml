@@ -84,9 +84,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - projecttitle: Senior Software Engineer
+    - projecttitle: IoT를 이용한 식물 자동 물주기 시스템(PLANIOT)
       time: 2014 - 2015
-      company: Google, London
+      company: 충남대학교
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -95,7 +95,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - projecttitle: UI Developer
+    - projecttitle: 자동 욕설 탐지 로봇
       time: 2012 - 2014
       company: Amazon, London
       details: |
@@ -106,6 +106,41 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+    - projecttitle: 고주파 소리를 이용한 출석체크 프로그램
+      time: 2012 - 2014
+      company: 충남대학교
+      details: |
+        설명하세요
+    - projecttitle: 로봇을 이용한 모바일 어플리케이션 성능 측정 시스템
+      time: 2014 - 2019
+      details: |
+        설명하세요
+   - projecttitle: 휴리스틱을 이용한 블록체인 분석 방법
+      time: 2012 - 2014
+      details: |
+        설명하세요
+   - projecttitle: 비트코인 데이터의 이상치 탐지 방법
+       time: 2012 - 2014
+       details: |
+          설명하세요
+   - projecttitle: 토르 히든 서비스를 이용한 다크넷 분석 방법
+       time: 2012 - 2014
+       details: |
+          설명하세요
+   - projecttitle: 스마스 스피커 성능 측정 방법
+       time: 2012 - 2014
+       details: |
+          설명하세요
+   - projecttitle: APNIC INVALID ROA 해커톤 참여
+       time:: 2019
+       details: |
+          설명하세요
+   - projecttitle: 에트리 공모전
+       time: 2019
+       details: |
+          설명하세요
+
+
 projects:
     title: Projects
     intro: >
