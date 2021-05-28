@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://kimsoohyun950921.github.io/sitemap.xml
+Sitemap: kimsoohyun950921.github.io/sitemap.xml
