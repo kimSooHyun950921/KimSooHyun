@@ -19,11 +19,10 @@ title: PPosong's Blog                         # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  내가 공부하려고 만든 블로그
+description: 내가 공부하려고 만든 블로그                        # used by seo meta and the atom feed
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://kimsoohyun950921.github.io'
 
 github:
   username: KimSooHyun950921             # change to your github username
