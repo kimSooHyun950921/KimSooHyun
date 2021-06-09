@@ -1,7 +1,7 @@
 ---
 layout: post
-category:Algorithm
 title: test
+category: Algorithm
 comments : true
 ---
 
