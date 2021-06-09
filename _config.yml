@@ -1,0 +1,18 @@
+theme: jekyll-theme-hydure
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: zivong/jekyll-theme-hydure
+
+title: soohyun
+
+author.name: soohyun
+author.url: kimSooHyun950921.github.io
+
+# Ruby Date Format
+date_format: "%B %-d, %Y"
+
+# permalink: /:year-:month-:day-:title/
+
+permalink: /:categories/:title/
