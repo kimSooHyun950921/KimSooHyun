@@ -16,3 +16,5 @@ date_format: "%B %-d, %Y"
 # permalink: /:year-:month-:day-:title/
 
 permalink: /:categories/:title/
+comments: true
+description: "내공내블 - 내가공부하려고 만든 블로그"
