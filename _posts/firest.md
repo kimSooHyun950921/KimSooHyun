@@ -1,5 +1,6 @@
 ---
 layout: post
+category:Algorithm
 title: test
 comments : true
 ---
