@@ -24,7 +24,7 @@ toc:
       - page: network
         url: /network
   - title: about
-    subfolderitems
+    subfolderitems:
     - page: CV
       url: /cv
     - page: github
