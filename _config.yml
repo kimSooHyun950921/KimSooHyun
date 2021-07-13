@@ -5,16 +5,16 @@ plugins:
 
 collections:
   Projects:
-    Robots:
+    robots:
       output: true
-      permalink: /Projects/Robots/:name/
-    HoneyLyrics:
+      #permalink: /Projects/Robots/:name/
+    honeylyrics:
       output: true
-      permalink: /Projects/HoneyLyrics/:name/
+      #permalink: /Projects/HoneyLyrics/:name/
   Study:
      AI:
       output: true
-      permalink: /Study/AI/:name/
+      #permalink: /Study/AI/:name/
 
 #defaults:
 #  - scope:
