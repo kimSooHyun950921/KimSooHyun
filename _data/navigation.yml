@@ -20,7 +20,7 @@ toc:
       - page: os
         url: /os
       - page: algorithm
-        url: /study/algorithm
+        url: /algorithm
       - page: network
         url: /network
   - title: about
