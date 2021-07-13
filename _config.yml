@@ -12,9 +12,10 @@ collections:
       output: true
       #permalink: /Projects/HoneyLyrics/:name/
   study:
-     algorithm:
+    collections_dir: study
+    algorithm:
       output: true
-      permalink: /study/algorithm/:path/
+      permalink: /algorithm/:name/
 
 #defaults:
 #  - scope:
