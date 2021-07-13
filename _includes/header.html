@@ -6,18 +6,16 @@
     <nav class="nav pure-menu">
       <ul class="pure-menu-list">
       {% for item in site.data.navigation.toc %}
-        <li class="nav-item pure-menu-item">
-        {{item.title}}
+          {{item.title}}
           <ul class="pure-menu-list">
-          {% for entry in item.subfolderitems%}
+            {% for entry in item.subfolderitems%}
             <li class="nav-item pure-menu-item">
                 <a style="font-size:12px"  href="{{ entry.url | relative_url }}" class="pure-menu-link {% if page.url == entry.url %}current{% endif %}">
-            {{ entry.page }}
+                    {{ entry.page }}
                 </a>
             </li>
           </ul>
         {% endfor %}
-        </li>
      {% endfor %}
       </ul>
     </nav>
