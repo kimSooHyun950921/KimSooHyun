@@ -4,17 +4,17 @@ plugins:
   - jekyll-remote-theme
 
 collections:
-  Projects:
+  project:
     robots:
       output: true
       #permalink: /Projects/Robots/:name/
     honeylyrics:
       output: true
       #permalink: /Projects/HoneyLyrics/:name/
-  Study:
-     AI:
+  study:
+     algorithm:
       output: true
-      #permalink: /Study/AI/:name/
+      permalink: /study/algorithm/:name/
 
 #defaults:
 #  - scope:
