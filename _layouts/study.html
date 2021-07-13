@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<div class="posts">
-  {% assign posts = site.posts %}
+<div class="study">
+  {% assign study = site.study %}
   {% if paginator %}
-    {% assign posts = paginator.posts %}
+    {% assign study = paginator.study %}
   {% endif %}
-  {% for post in posts %}
+  {% for post in study %}
     <div class="post">
       <h2 class="post-title">
         <a href="{{ post.url | relative_url }}">
