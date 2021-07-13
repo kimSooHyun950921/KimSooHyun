@@ -1,0 +1,8 @@
+- title: Home
+  url: /
+- title: Project
+  url: /_layout/Project.html
+- title: Study
+  url: /Study/
+- title: CV
+  url: /cv/
