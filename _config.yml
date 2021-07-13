@@ -14,7 +14,7 @@ collections:
   study:
      algorithm:
       output: true
-      permalink: /algorithm/:path/
+      permalink: /study/algorithm/:path/
 
 #defaults:
 #  - scope:
