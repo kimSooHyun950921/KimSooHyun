@@ -2,10 +2,30 @@ toc:
   - title: project
     subfolderitems:
       - page: honeylyrics
-        url: /
-      - pange: robot
-        url: /
+        url: /honeylyrics
+      - page: robot
+        url: /robot
+      - page: foodRecommenation
+        url: /fr
+      - page: bitcoin
+        url: /bitcoin
+      - page: dataOverSound
+        url: /dataOverSound
   - title: study
     subfolderitems:
       - page: AI
-        url: /
+        url: /ai
+      - page: datascience
+        url: /datascience
+      - page: os
+        url: /os
+      - page: algorithm
+        url: /algorithm
+      - page: network
+        url: /network
+  - title: about
+    subfolderitems
+    - page: CV
+      url: /cv
+    - page: github
+      url: /github
