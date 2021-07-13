@@ -1,10 +1,8 @@
 - title: Home
   url: /
-- title: Algorithm
-  url: /algorithm/
-- title: CS
-  url: /cs/
-- title: AI
-  url: /ai/
 - title: Project
-  url: /project/
+  url: /algorithm/
+- title: Study
+  url: /cs/
+- title: CV
+  url: /ai/
