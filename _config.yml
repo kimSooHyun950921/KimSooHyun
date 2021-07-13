@@ -7,14 +7,14 @@ collections:
   Projects:
     Robots:
       output: true
-      permalink: /:collection/:name/
+      permalink: /Projects/Robots/:name/
     HoneyLyrics:
       output: true
-      permalink: /:collection/:name/
+      permalink: /Projects/HoneyLyrics/:name/
   Study:
      AI:
       output: true
-      permalink: /:collection/:name/
+      permalink: /Study/AI/:name/
 
 #defaults:
 #  - scope:
