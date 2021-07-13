@@ -18,15 +18,15 @@ collections:
 
 defaults:
   - scope:
-    path: ""
-    type: "Projects"
-   values:
-    layout: "post"
+      path: ""
+      type: "Projects"
+    values:
+      layout: "post"
   - scope:
-    path: ""
-    type: "Study"
+      path: ""
+      type: "Study"
    values:
-    layout: "post"
+      layout: "post"
 
 remote_theme: zivong/jekyll-theme-hydure
 
