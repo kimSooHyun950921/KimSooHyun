@@ -5,16 +5,13 @@
   {% if site.data.navigation %}
     <nav class="nav pure-menu">
       <ul class="pure-menu-list">
-      {% for item in site.data.navigation.toc %}
-        {{item.title}}
-        {% for entry in item.subfolderitems%}
-          <li class="nav-item pure-menu-item">
-            <a href="{{ entry.url | relative_url }}" class="pure-menu-link {% if page.url == entry.url %}current{% endif %}">
-            {{ entry.page }}
-            </a>
+      {% for item in site.data.navigation %}
+        <li class="nav-item pure-menu-item">
+          <a href="{{ item.url | relative_url }}" class="pure-menu-link {% if page.url == item.url %}current{% endif %}">
+            {{ item.title }}
+          </a>
         </li>
-        {% endfor %}
-     {% endfor %}
+      {% endfor %}
       </ul>
     </nav>
   {% endif %}

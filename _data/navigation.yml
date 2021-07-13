@@ -1,8 +1,11 @@
-- title: Home
-  url: /
-- title: Project
-  url: /_layout/Project.html
-- title: Study
-  url: /Study/
-- title: CV
-  url: /cv/
+toc:
+  - title: project
+    subfolderitems:
+      - page: honeylyrics
+        url: /
+      - pange: robot
+        url: /
+  - title: study
+    subfolderitems:
+      - page: AI
+        url: /
