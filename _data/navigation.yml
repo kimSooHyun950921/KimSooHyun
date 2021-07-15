@@ -3,10 +3,10 @@ toc:
     subfolderitems:
       - page: honeylyrics
         url: /honeylyrics
-      - page: appspeedrobot
-        url: /appspeedrobot
-      - page: foodrecommendation
-        url: /foodrecommendation
+      - page: AppSpeedRobots
+        url: /robot
+      - page: FoodRecommendation
+        url: /fr
       - page: bitcoin
         url: /bitcoin
       - page: dataoversound
