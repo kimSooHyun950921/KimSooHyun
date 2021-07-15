@@ -4,9 +4,9 @@ toc:
       - page: honeylyrics
         url: /honeylyrics
       - page: AppSpeedRobots
-        url: /robot
+        url: /appspeedrobot
       - page: FoodRecommendation
-        url: /fr
+        url: /foodrecommendation
       - page: bitcoin
         url: /bitcoin
       - page: dataoversound

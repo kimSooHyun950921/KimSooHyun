@@ -5,15 +5,15 @@ plugins:
 
 collections:
   AppSpeedRobots:
-    collections_dir: /robot
+    collections_dir: /appspeedrobot
     output: true
-    permalink: /robot/:name/
+    permalink: /appspeedrobot/:name/
   honeylyrics:
     collections_dir: /honeylyrics
     output: true
     permalink: /honeylyrics/:name/
   foodrecommendation:
-    collections_dir: /fr
+    collections_dir: /foodrecommendation
     output: true
     permalink: /foodrecommendation/:name/
   bitcoin:
