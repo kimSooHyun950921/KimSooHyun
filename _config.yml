@@ -15,17 +15,6 @@ collections:
     output: true
     permalink: /study/algorithm/:name/
 
-#defaults:
-#  - scope:
-#      path: ""
-#      type: "Projects"
-#    values:
-#      layout: "post"
-#  - scope:
-#      path: ""
-#      type: "Study"
-#   values:
-#      layout: "post"
 
 remote_theme: zivong/jekyll-theme-hydure
 
