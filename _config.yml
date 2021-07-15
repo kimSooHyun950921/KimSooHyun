@@ -4,18 +4,15 @@ plugins:
   - jekyll-remote-theme
 
 collections:
-  project:
-    robots:
-      output: true
+  robots:
+    output: true
       #permalink: /Projects/Robots/:name/
-    honeylyrics:
-      output: true
-      #permalink: /Projects/HoneyLyrics/:name/
-  study:
-    collections_dir: study
-    algorithm:
-      output: true
-      permalink: /algorithm/:name/
+  honeylyrics:
+    output: true
+    #permalink: /Projects/HoneyLyrics/:name/
+  algorithm:
+    output: true
+    permalink: /algorithm/:name/
 
 #defaults:
 #  - scope:
