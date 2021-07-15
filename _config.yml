@@ -4,16 +4,46 @@ plugins:
   - jekyll-remote-theme
 
 collections:
-  robots:
+  AppSpeedRobots:
+    collections_dir: /appspeedrobot
     output: true
-      #permalink: /Projects/Robots/:name/
+    permalink: /appspeedrobot/:name/
   honeylyrics:
+    collections_dir: /honeylyrics
     output: true
-    #permalink: /Projects/HoneyLyrics/:name/
+    permalink: /honeylyrics/:name/
+  fooedrecommendation:
+    collections_dir: /foodrecommendation
+    output: true
+    permalink: /foodrecommendation/:name/
+  bitcoin:
+    collections_dir: /bitcoin
+    output: true
+    permalink: /bitcoin/:name/
+  dataoversound:
+    collections_dir: /dataoversound
+    output: true
+    permalink: /dataoversound/:name/
   algorithm:
-    collections_dir: /study/alogrithm
+    collections_dir: /alogrithm
     output: true
-    permalink: /study/algorithm/:name/
+    permalink: /algorithm/:name/
+  AI:
+    collections_dir: /AI
+    output: true
+    permalink: /AI/:name/
+  datascience:
+    collections_dir: /datascience
+    output: true
+    permalink: /datascience/:name/
+  os:
+    collections_dir: /os
+    output: true
+    permalink: /os/:name/
+  network:
+    collections_dir: /network
+    output: true
+    permalink: /network/:name/
 
 
 remote_theme: zivong/jekyll-theme-hydure

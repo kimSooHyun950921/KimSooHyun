@@ -5,16 +5,16 @@ toc:
         url: /honeylyrics
       - page: robot
         url: /robot
-      - page: foodRecommenation
-        url: /fr
+      - page: foodrecommendation
+        url: /foodrecommendation
       - page: bitcoin
         url: /bitcoin
-      - page: dataOverSound
-        url: /dataOverSound
+      - page: dataoversound
+        url: /dataoversound
   - title: study
     subfolderitems:
       - page: AI
-        url: /ai
+        url: /AI
       - page: datascience
         url: /datascience
       - page: os
