@@ -11,9 +11,9 @@ collections:
     output: true
     #permalink: /Projects/HoneyLyrics/:name/
   algorithm:
-    collections_dir: alogrithm
+    collections_dir: /study/alogrithm
     output: true
-    permalink: /algorithm/:name/
+    permalink: /study/algorithm/:name/
 
 #defaults:
 #  - scope:
