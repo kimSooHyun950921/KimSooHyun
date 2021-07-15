@@ -11,6 +11,7 @@ collections:
     output: true
     #permalink: /Projects/HoneyLyrics/:name/
   algorithm:
+    collections_dir: alogrithm
     output: true
     permalink: /algorithm/:name/
 
