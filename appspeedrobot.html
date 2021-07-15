@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<div class="algorithm">
-  {% assign algorithm = site.algorithm %}
+<div class="appspeedrobot">
+  {% assign appspeedrobot = site.appspeedrobot %}
   {% if paginator %}
-    {% assign algorithm = paginator.algorithm %}
+    {% assign appspeedrobot = paginator.appspeedrobot %}
   {% endif %}
-  {% for post in algorithm %}
+  {% for post in appspeedrobot %}
     <div class="post">
       <h2 class="post-title">
         <a href="{{ post.url | relative_url }}">

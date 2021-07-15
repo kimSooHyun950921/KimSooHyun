@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<div class="algorithm">
-  {% assign algorithm = site.algorithm %}
+<div class="network">
+  {% assign network = site.network %}
   {% if paginator %}
-    {% assign algorithm = paginator.algorithm %}
+    {% assign network = paginator.network %}
   {% endif %}
-  {% for post in algorithm %}
+  {% for post in network %}
     <div class="post">
       <h2 class="post-title">
         <a href="{{ post.url | relative_url }}">

@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<div class="algorithm">
-  {% assign algorithm = site.algorithm %}
+<div class="dataoversound">
+  {% assign dataoversound = site.dataoversound %}
   {% if paginator %}
-    {% assign algorithm = paginator.algorithm %}
+    {% assign dataoversound = paginator.dataoversound %}
   {% endif %}
-  {% for post in algorithm %}
+  {% for post in dataoversound %}
     <div class="post">
       <h2 class="post-title">
         <a href="{{ post.url | relative_url }}">

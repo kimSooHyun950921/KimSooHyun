@@ -2,12 +2,12 @@
 layout: default
 ---
 
-<div class="algorithm">
-  {% assign algorithm = site.algorithm %}
+<div class="datascience">
+  {% assign datascience = site.datascience %}
   {% if paginator %}
-    {% assign algorithm = paginator.algorithm %}
+    {% assign datascience = paginator.datascience %}
   {% endif %}
-  {% for post in algorithm %}
+  {% for post in datascience %}
     <div class="post">
       <h2 class="post-title">
         <a href="{{ post.url | relative_url }}">
