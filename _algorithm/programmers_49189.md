@@ -57,6 +57,7 @@ while queue:
 <details>
 <summary>전체 코드</summary>
 <div markdown="1">
+
 # **6. 소스코드**
 ```python
 from collections import deque
