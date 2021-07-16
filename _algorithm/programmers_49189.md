@@ -5,10 +5,12 @@ category: /programmers/49189
 date: 2021-07-16 11:35 +0800
 ---
 # **1. 문제의 핵심**
+
 ```
 1. Graph 탐색
 2. Graph
 ```
+
 # **2. 사용 자료구조**
 1. 그래프: 2차원 리스트( [[2, 1], [2, 0, 3, 4], [3, 1, 0], [2, 1], [1]])
     - 인덱스: 현재 vertex
@@ -22,7 +24,6 @@ date: 2021-07-16 11:35 +0800
     - 1번재 값: 가장 멀리떨어진 거리를 가지는 vertex 개수
 
 # **3. 알고리즘**
-<img src='./img/programmers_49189.PNG'>
 
 ```
 1. 입력리스트를 그래프로 바꿈
@@ -56,7 +57,6 @@ while queue:
 <details>
 <summary>전체 코드</summary>
 <div markdown="1">
-
 # **6. 소스코드**
 ```python
 from collections import deque
@@ -89,6 +89,5 @@ def solution(n, edge):
                 elif max_value[0] == dijkstra[adjacement_vertex]:
                     max_value[1] += 1
     return max_value[1]
-
 ```
 </detail>
